@@ -1,0 +1,4 @@
+22:22:36.232 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+22:22:36.352 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9000
+22:22:41.904 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO com.firebase.core.namespace.NamespaceActor - vernal-day-409616-default-rtdb successfully activated FBKV (SurveyIdle(0)) wait: 104ms, init: 0ms
+22:22:41.954 [NamespaceSystem-blocking-namespace-operation-dispatcher-6] INFO com.firebase.core.namespace.StateManager - Namespace vernal-day-409616-default-rtdb status Active to Active
